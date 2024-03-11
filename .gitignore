@@ -1,0 +1,7 @@
+cred-azure.txt
+azure_ssh_key
+azure_ssh_key.pub
+.terraform
+.terraform.lock.hd
+terraform.tfstate
+terraform.tfstate.backup
